@@ -4,19 +4,13 @@
 	<a href="//ajaylove1shi.com"> I'm Ajay Lowanshi! </a> 
 </h1>
 
-<h3 align="center">Senior Software Engineer 🤓 </h3>
+<h3 align="center">Full Stack Developer 🤓 </h3>
 
 <p align="center"> 
 	<img src='https://komarev.com/ghpvc/?username=ajaylove1shi' alt='ajaylove1shi'/>
 </p>
 
-<p align="center">
-	A Passionate Senior Software Engineer 😊👨🏻‍💻⚡⚛️🐈 | 👨‍💻 Web Developer | 💻 Team Player | ✔ Python Learner | ✌ Open Source Contributor 👈 | 🧐 Software Engineer 🤘 |  Computer Engineering 20' 👨‍🎓 | 👊 👨‍💻 👀 👂 Looking for remote work. 👀 👂 Have passion for front end web 🌠 development work. | System developer 🤖 | Full-stack dev 🚀 | 🎉 ✌️ Software Engineer | 🚀 Aspiring Software Architect | 🏛 Coffee is life | ☕️⠀AZ Native | 🌵 Jamstack | 🥑 Music lover 🎶 | Foodie 🍜 Legend of Zelda ▲▲▲ Penguins 🐧 | Full Stack Developer 🌐 | Aspiring Software Developer 👾 | 🔊  🎶 🐨 |  music ✨ for ❣️ 🤖 |  🔊 Aspiring Software Developer ☕ | Technical ✍ | Open Source Contributor 🖤 | 💻 Developer | ☕️ Coffee |  📷 Full Stack Developer 🤓
-</p>
-
 <br>
-
-<img align="right" width="400" height="300" alt="GIF" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/working.gif" />
 
 - 💻 I'm a Full Stack Developer
 - 🔭 I build things that makes a difference
@@ -32,44 +26,6 @@
 - 💜 I work with tech entrepreneurs around the world building remarkable products
 
 <br>
-<br>
-
-I am a full stack web developer and having **years**  of experience in web development.
-
-I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
-
-<img align="right" width="400" height="350" alt="GIF" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/banner.gif" />
-
-I have worked on many of popular frameworks and libraries.
-
-**Client side frameworks & libraries:**
-- ReactJs
-- Angular
-- VueJs And many more....
-
-**Server side frameworks & cms:**
-- Laravel frameworks
-- Codeigniter frameworks
-- Wordpress cms And many more....
-
-I also worked on **APIs, Web hooks, E commerce applications** and more...
-<br>
-<hr/>
-
-
-### My Projects: 🖤
-<img align="right" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/dev.gif" width="32%"/>
-
-- Yo❤️
-- [Bloger(An open source project)](https://github.com/)[laravel, php, html, css]
-- [Weather Predictor Web App](https://github.com/)[php, bs4, requests, Web Scraping]
-- [Portfolio(Website)](https://github.com)[Html, Css, Js BS4]
-- [Salary Prediction System](https://github.com/)[Html, Css, Js , BS4 , Flask , Pandas , Matplotlib , Numpy]
-- [E-commerce (Website)](https://github.com)[Html, Css, Js BS4]
-- [E-Store Mobile (Website)](https://github.com)[Html, Css, Js BS4]
-<br>
-<hr/>
-
 
 ### My Github Stats: 🖤
 <p align="center"> 
@@ -81,8 +37,7 @@ I also worked on **APIs, Web hooks, E commerce applications** and more...
 
 <hr/>
 
-
-I write about software development on [my blog!](https://www.ajaylove1shi.com), Want to know how I may help your project? Interested in hiring me for your project or just want to say hi? [contact me!](https://www.ajaylove1shi.com/contact-me) or send me an email to [ajaylove1shi@gmail.com!](mailto:ajaylove1shi@gmail.com).
+I write about software development on [my blog!](https://www.ajaylove1shi.com), Want to know how I may help your project? or just want to say hi? [contact me!](https://www.ajaylove1shi.com/contact-me) or send me an email to [ajaylove1shi@gmail.com!](mailto:ajaylove1shi@gmail.com).
 
 [![Twitter: ajaylove1shi](https://img.shields.io/twitter/follow/ajaylove1shi?style=social)](https://twitter.com/ajaylove1shi)
 [![Linkedin: ajaylove1shi](https://img.shields.io/badge/-ajaylove1shi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaylove1shi/)](https://www.linkedin.com/in/ajaylove1shi/)
@@ -90,7 +45,6 @@ I write about software development on [my blog!](https://www.ajaylove1shi.com), 
 [![website](https://img.shields.io/badge/Blog-ajaylove1shi.com-2648ff?style=flat-square&logo=google-chrome)](https://www.ajaylove1shi.com)
 
 Want to get connected? Follow me on the social channels below.
-
 <p>
 <a href="https://www.facebook.com/ajaylove1shi">
 	<img align="left" alt="Ajay's Facebook" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/fb.svg" />
