@@ -1,89 +1,116 @@
-<h1 align="center">
-	Hi 
-	<img src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/hi.gif" width="30px">
-	<a href="//ajaylove1shi.com"> I'm Ajay Lowanshi! </a> 
-</h1>
+<h1 align="center">Hi, I'm Ajay Lowanshi 👋</h1>
 
-<h3 align="center">Full Stack Developer 🤓 </h3>
+<h3 align="center">Senior Software Engineer | Full-Stack PHP • WordPress • Node.js • React.js</h3>
 
-<p align="center"> 
-	<img src='https://komarev.com/ghpvc/?username=ajaylove1shi' alt='ajaylove1shi'/>
+<p align="center">
+  <a href="mailto:ajaylove1shi@gmail.com"><img src="https://img.shields.io/badge/Email-ajaylove1shi%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ajaylove1shi"><img src="https://img.shields.io/badge/LinkedIn-Ajay%20Lowanshi-0077B5?style=flat-square&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-green?style=flat-square&logo=google-maps" />
 </p>
 
-<br>
+---
 
-- 💻 I'm a Full Stack Developer
-- 🔭 I build things that makes a difference
-- ⚡ Excited to create open-source projects
-- 🔭 I’m currently working on ....***ml***
-- 🌱 I’m currently learning .... **python**
-- 💬 Ask me about ***java*, *php*, *javascript*, *python*, *sql*, *server***
-- 😄 Pronouns: .... he/him
-- ⚡ Fun fact: Love to lesson music while working.
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with  **python**
-- 📫 How to reach me: you can contact me via [ajaylove1shi@gmail.com!](mailto:ajaylove1shi@gmail.com)
-- 💜 I work with tech entrepreneurs around the world building remarkable products
+## 🚀 About Me
 
-<br>
+I'm a **Senior Software Engineer** with **6+ years of experience** building scalable, high-performance web applications for global clients across **India, USA, and UK**.
 
-### My Github Stats: 🖤
-<p align="center"> 
-	<img  height="150" src="https://github-readme-stats.vercel.app/api?username=ajaylove1shi&show_icons=true&hide_border=true">	
-	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Laravel**, **Node.js / Express.js**, and **React.js** — delivering production-grade multilingual platforms for industries like EdTech, Logistics, Hospitality, and eCommerce.
+
+- 🔭 Currently working on enterprise WordPress & Node.js projects
+- 🌍 Delivered **12+ projects** across global markets
+- 💡 Passionate about **performance optimization**, **REST API design**, and **clean code**
+- ⚡ Open to: **Remote | Hybrid | On-site** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### CMS & eCommerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaylove1shi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaylove1shi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
->NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
+---
 
-<hr/>
+## 📈 Professional Highlights
 
-I write about software development on [my blog!](https://www.ajaylove1shi.com), Want to know how I may help your project? or just want to say hi? [contact me!](https://www.ajaylove1shi.com/contact-me) or send me an email to [ajaylove1shi@gmail.com!](mailto:ajaylove1shi@gmail.com).
+- 🌐 Built **multilingual platforms** supporting 7+ languages (EN, AR, DE, UK, HI, KN & more)
+- ⚡ Reduced API response times by **~40%** through query optimization & caching
+- 🗄️ Optimized high-traffic MySQL databases, cutting query execution time by **~40%**
+- 🤝 Mentored junior developers & led code reviews in Agile/Scrum teams
+- 🔗 Integrated **10+ third-party APIs** — payment gateways, CRMs, marketing tools
 
-[![Twitter: ajaylove1shi](https://img.shields.io/twitter/follow/ajaylove1shi?style=social)](https://twitter.com/ajaylove1shi)
-[![Linkedin: ajaylove1shi](https://img.shields.io/badge/-ajaylove1shi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaylove1shi/)](https://www.linkedin.com/in/ajaylove1shi/)
-[![GitHub ajaylove1shi](https://img.shields.io/github/followers/ajaylove1shi?label=follow&style=social)](https://github.com/ajaylove1shi)
-[![website](https://img.shields.io/badge/Blog-ajaylove1shi.com-2648ff?style=flat-square&logo=google-chrome)](https://www.ajaylove1shi.com)
+---
+
+## 📫 Get In Touch
+
+- 📧 Email: **ajaylove1shi@gmail.com**
+- 📞 Phone: **+91-8770383716**
+- 📍 Location: **Gurugram, Haryana, India**
+- 💼 Open to: **Remote | Hybrid | On-site | Relocation**
+
+---
 
 Want to get connected? Follow me on the social channels below.
 <p>
-<a href="https://www.facebook.com/ajaylove1shi">
-	<img align="left" alt="Ajay's Facebook" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/fb.svg" />
-</a>
-<a href="https://www.instagram.com/ajaylove1shi/">
-	<img align="left" alt="Ajay's Instagram" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/insta.svg" />
-</a>
-<a href="https://twitter.com/ajaylove1shi">
-	<img align="left" alt="Ajay's Twitter" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/channel/ajaylove1shi">
-	<img align="left" alt="Ajay's Youtube" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/youtube.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ajaylove1shi">
-	<img align="left" alt="Ajay's Linkdein" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/linkedin.svg" /> 
-</a>
-<a href="https://github.com/ajaylove1shi">
-	<img align="left" alt="Ajay's Github" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/github.svg" />
-</a>
+  <a href="https://www.facebook.com/ajaylove1shi">
+    <img align="left" alt="Ajay's Facebook" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/fb.svg" />
+  </a>
+  <a href="https://www.instagram.com/ajaylove1shi/">
+    <img align="left" alt="Ajay's Instagram" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/insta.svg" />
+  </a>
+  <a href="https://twitter.com/ajaylove1shi">
+    <img align="left" alt="Ajay's Twitter" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/twitter.svg" />
+  </a>
+  <a href="https://www.youtube.com/channel/ajaylove1shi">
+    <img align="left" alt="Ajay's Youtube" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/youtube.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/ajaylove1shi">
+    <img align="left" alt="Ajay's Linkdein" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/linkedin.svg" /> 
+  </a>
+  <a href="https://github.com/ajaylove1shi">
+    <img align="left" alt="Ajay's Github" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/github.svg" />
+  </a>
 </p>
-
 <br>
 
-<!--
-**ajaylove1shi/ajaylove1shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Website Badge](https://img.shields.io/badge/-crumet-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jaylove1nshi)](https://jaylove1nshi.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ajaylove1shi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaylove1shi/)](https://www.linkedin.com/in/ajaylove1shi/)
-[![Twitter Badge](https://img.shields.io/badge/-@ajaylove1shi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajaylove1shi)](https://twitter.com/ajaylove1shi)
-[![Instagram Badge](https://img.shields.io/badge/-@ajaylove1shi-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajaylove1shi/)](https://instagram.com/ajaylove1shi)
-[![Gmail Badge](https://img.shields.io/badge/-ajaylove1shi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajaylove1shi@gmail.com)](mailto:ajaylove1shi@gmail.com)
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajaylove1shi&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>"Clean code, scalable systems, global impact."</i></p>
