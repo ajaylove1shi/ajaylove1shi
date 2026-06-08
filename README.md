@@ -95,7 +95,7 @@ Want to get connected? Follow me on the social channels below.
   <a href="https://twitter.com/ajaylove1shi">
     <img align="left" alt="Ajay's Twitter" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/twitter.svg" />
   </a>
-  <a href="https://www.youtube.com/channel/ajaylove1shi">
+  <a href="https://www.youtube.com/@ajaylove1shi">
     <img align="left" alt="Ajay's Youtube" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/youtube.svg" />
   </a>
   <a href="https://www.linkedin.com/in/ajaylove1shi">
