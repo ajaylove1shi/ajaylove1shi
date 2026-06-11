@@ -58,9 +58,10 @@ I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Larave
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaylove1shi&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaylove1shi&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaylove1shi&theme=default&show_icons=true&hide_border=true&layout=compact" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaylove1shi&theme=default&show_icons=true&hide_border=true&count_private=true" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaylove1shi&theme=default&hide_border=true" width="43%" />
 </p>
 
 ---
