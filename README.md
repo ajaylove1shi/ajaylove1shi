@@ -2,12 +2,6 @@
 
 <h3 align="center">Senior Software Engineer | Full-Stack PHP • WordPress • Node.js • React.js</h3>
 
-<p align="center">
-  <a href="mailto:ajaylove1shi@gmail.com"><img src="https://img.shields.io/badge/Email-ajaylove1shi%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ajaylove1shi"><img src="https://img.shields.io/badge/LinkedIn-Ajay%20Lowanshi-0077B5?style=flat-square&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-green?style=flat-square&logo=google-maps" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -60,7 +54,6 @@ I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Larave
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaylove1shi&theme=default&show_icons=true&hide_border=true&layout=compact" width="43%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaylove1shi&theme=default&show_icons=true&hide_border=true&count_private=true" width="55%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaylove1shi&theme=default&hide_border=true" width="43%" />
 </p>
 
@@ -82,22 +75,6 @@ I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Larave
 - 📞 Phone: **+91-8770383716**
 - 📍 Location: **Gurugram, Haryana, India**
 - 💼 Open to: **Remote | Hybrid | On-site | Relocation**
-
----
-
-Want to get connected? Follow me on the social channels below.
-<p>
-  <a href="https://twitter.com/ajaylove1shi">
-    <img align="left" alt="Ajay's Twitter" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajaylove1shi">
-    <img align="left" alt="Ajay's Linkdein" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/linkedin.svg" /> 
-  </a>
-  <a href="https://github.com/ajaylove1shi">
-    <img align="left" alt="Ajay's Github" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/github.svg" />
-  </a>
-</p>
-<br>
 
 ---
 
