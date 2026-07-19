@@ -17,7 +17,7 @@ I'm a **Senior Software Engineer** with **6+ years of experience** building scal
 I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Laravel**, **Node.js / Express.js**, and **React.js** — delivering production-grade multilingual platforms for industries like EdTech, Logistics, Hospitality, and eCommerce.
 
 - 🔭 Currently working on enterprise WordPress & Node.js projects
-- 🌍 Delivered **12+ projects** across global markets
+- 🌍 Delivered **17+ projects** across global markets
 - 💡 Passionate about **performance optimization**, **REST API design**, and **clean code**
 - ⚡ Open to: **Remote | Hybrid | On-site** opportunities
 
