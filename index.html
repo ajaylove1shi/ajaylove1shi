@@ -11,8 +11,8 @@
     :root {
       --bg:        #030712;
       --bg2:       #070d1a;
-      --cyan:      #00f5d4;
-      --cyan2:     #00c9b1;
+      --primary:      #00f5d4;
+      --primary2:     #00c9b1;
       --blue:      #0ea5e9;
       --purple:    #818cf8;
       --text:      #e2e8f0;
@@ -73,7 +73,7 @@
       font-family: 'Orbitron', monospace;
       font-size: 1.1rem;
       font-weight: 900;
-      color: var(--cyan);
+      color: var(--primary);
       letter-spacing: 0.15em;
       text-decoration: none;
     }
@@ -87,7 +87,7 @@
       text-transform: uppercase;
       transition: color 0.2s;
     }
-    .nav-links a:hover { color: var(--cyan); }
+    .nav-links a:hover { color: var(--primary); }
 
     /* ── HERO ── */
     #hero {
@@ -112,7 +112,7 @@
       position: absolute;
       inset: -6px;
       border-radius: 50%;
-      background: conic-gradient(from 0deg, var(--cyan), var(--blue), var(--purple), var(--cyan));
+      background: conic-gradient(from 0deg, var(--primary), var(--blue), var(--purple), var(--primary));
       animation: spin 4s linear infinite;
       z-index: -1;
     }
@@ -139,7 +139,7 @@
     .hero-tag {
       font-family: 'DM Mono', monospace;
       font-size: 0.75rem;
-      color: var(--cyan);
+      color: var(--primary);
       letter-spacing: 0.25em;
       text-transform: uppercase;
       margin-bottom: 1rem;
@@ -153,7 +153,7 @@
       font-weight: 900;
       line-height: 1;
       letter-spacing: -0.02em;
-      background: linear-gradient(135deg, #fff 30%, var(--cyan) 70%, var(--blue));
+      background: linear-gradient(135deg, #fff 30%, var(--primary) 70%, var(--blue));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
@@ -170,7 +170,7 @@
       opacity: 0;
       animation: fadeUp 0.7s ease forwards 0.7s;
     }
-    .hero-title span { color: var(--cyan); }
+    .hero-title span { color: var(--primary); }
 
     .hero-stats {
       display: flex;
@@ -188,7 +188,7 @@
       font-family: 'Orbitron', monospace;
       font-size: 2rem;
       font-weight: 900;
-      color: var(--cyan);
+      color: var(--primary);
       line-height: 1;
     }
     .stat-label {
@@ -226,17 +226,17 @@
       border: none;
     }
     .btn-primary {
-      background: var(--cyan);
+      background: var(--primary);
       color: var(--bg);
     }
     .btn-primary:hover {
-      background: var(--cyan2);
+      background: var(--primary2);
       box-shadow: 0 0 28px rgba(0,245,212,0.45);
       transform: translateY(-2px);
     }
     .btn-ghost {
       background: transparent;
-      color: var(--cyan);
+      color: var(--primary);
       border: 1px solid var(--border);
     }
     .btn-ghost:hover {
@@ -260,7 +260,7 @@
     .section-label {
       font-family: 'DM Mono', monospace;
       font-size: 0.72rem;
-      color: var(--cyan);
+      color: var(--primary);
       letter-spacing: 0.25em;
       text-transform: uppercase;
       margin-bottom: 0.6rem;
@@ -275,7 +275,7 @@
     .section-line {
       width: 56px;
       height: 3px;
-      background: linear-gradient(90deg, var(--cyan), transparent);
+      background: linear-gradient(90deg, var(--primary), transparent);
       margin-bottom: 3rem;
     }
 
@@ -334,7 +334,7 @@
     .skill-cat-title {
       font-family: 'DM Mono', monospace;
       font-size: 0.7rem;
-      color: var(--cyan);
+      color: var(--primary);
       letter-spacing: 0.2em;
       text-transform: uppercase;
       margin-bottom: 1.2rem;
@@ -356,14 +356,14 @@
       padding: 0.3rem 0.75rem;
       border-radius: 3px;
       border: 1px solid rgba(0,245,212,0.2);
-      color: var(--cyan2);
+      color: var(--primary2);
       background: rgba(0,245,212,0.05);
       transition: all 0.2s;
       cursor: default;
     }
     .skill-tag:hover {
       background: rgba(0,245,212,0.12);
-      border-color: var(--cyan);
+      border-color: var(--primary);
       box-shadow: 0 0 12px rgba(0,245,212,0.15);
     }
 
@@ -382,13 +382,13 @@
       position: absolute;
       top: 0; left: 0;
       width: 3px; height: 100%;
-      background: linear-gradient(to bottom, var(--cyan), transparent);
+      background: linear-gradient(to bottom, var(--primary), transparent);
     }
     .highlight-num {
       font-family: 'Orbitron', monospace;
       font-size: 2.2rem;
       font-weight: 900;
-      color: var(--cyan);
+      color: var(--primary);
       line-height: 1;
       margin-bottom: 0.3rem;
     }
@@ -413,7 +413,7 @@
     .project-card .project-type {
       font-family: 'DM Mono', monospace;
       font-size: 0.65rem;
-      color: var(--cyan);
+      color: var(--primary);
       letter-spacing: 0.2em;
       text-transform: uppercase;
       margin-bottom: 0.6rem;
@@ -461,7 +461,7 @@
       transition: all 0.2s;
     }
     .contact-item:hover {
-      border-color: var(--cyan);
+      border-color: var(--primary);
       background: var(--glass-b);
       transform: translateX(4px);
     }
@@ -494,7 +494,7 @@
     }
     footer .quote {
       font-style: italic;
-      color: var(--cyan);
+      color: var(--primary);
       margin-bottom: 0.8rem;
       font-size: 0.8rem;
     }
@@ -594,7 +594,7 @@
             <li><span class="icon">💼</span><div><strong>Availability</strong><br>Remote · Hybrid · On-site · Relocation</div></li>
             <li><span class="icon">🌐</span><div><strong>Markets</strong><br>India, USA & UK clients</div></li>
             <li><span class="icon">🏭</span><div><strong>Industries</strong><br>EdTech, Logistics, Hospitality, eCommerce</div></li>
-            <li><span class="icon">🔗</span><div><strong>GitHub</strong><br><a href="https://github.com/ajaylove1shi" target="_blank" style="color:var(--cyan);text-decoration:none;">github.com/ajaylove1shi</a></div></li>
+            <li><span class="icon">🔗</span><div><strong>GitHub</strong><br><a href="https://github.com/ajaylove1shi" target="_blank" style="color:var(--primary);text-decoration:none;">github.com/ajaylove1shi</a></div></li>
           </ul>
         </div>
       </div>
