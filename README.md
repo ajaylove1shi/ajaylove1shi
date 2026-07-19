@@ -87,17 +87,8 @@ I specialize in **WordPress (Theme, Plugin, Gutenberg, WP VIP)**, **PHP / Larave
 
 Want to get connected? Follow me on the social channels below.
 <p>
-  <a href="https://www.facebook.com/ajaylove1shi">
-    <img align="left" alt="Ajay's Facebook" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/fb.svg" />
-  </a>
-  <a href="https://www.instagram.com/ajaylove1shi/">
-    <img align="left" alt="Ajay's Instagram" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/insta.svg" />
-  </a>
   <a href="https://twitter.com/ajaylove1shi">
     <img align="left" alt="Ajay's Twitter" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/twitter.svg" />
-  </a>
-  <a href="https://www.youtube.com/@ajaylove1shi">
-    <img align="left" alt="Ajay's Youtube" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/youtube.svg" />
   </a>
   <a href="https://www.linkedin.com/in/ajaylove1shi">
     <img align="left" alt="Ajay's Linkdein" width="20px" src="https://raw.githubusercontent.com/ajaylove1shi/ajaylove1shi/main/linkedin.svg" /> 
