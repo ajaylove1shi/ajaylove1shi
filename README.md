@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ajay Lowanshi 👋</h1>
 
-<h3 align="center">Senior Software Engineer | Full-Stack PHP • WordPress • Node.js • React.js</h3>
+<h3 align="center">Senior Software Engineer👨🏻‍💻 | Building scalable web applications.🚀</h3>
 
 ---
 
